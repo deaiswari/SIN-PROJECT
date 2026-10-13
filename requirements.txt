@@ -1,0 +1,5 @@
+streamlit[pdf]
+pandas
+openpyxl
+xlrd
+python-docx

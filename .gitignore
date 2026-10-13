@@ -1,0 +1,5 @@
+sin_archive.db
+data/
+__pycache__/
+.DS_Store
+*.pyc
